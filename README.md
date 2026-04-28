@@ -26,6 +26,7 @@ These commands will make the module importable from the `@openai/openai` scope. 
 ```ts
 import OpenAI from 'jsr:@openai/openai';
 ```
+#comentario
 
 ## Usage
 

@@ -159,3 +159,5 @@ const _deployments_endpoints = new Set([
 ]);
 
 
+const hola = "Hola gente de openai, este es un mensaje de prueba para verificar que el cliente de Azure OpenAI se está exportando correctamente. ¡Gracias por revisar mi código!";
+
